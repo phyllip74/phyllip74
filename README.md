@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi I am a new Software Developer who is currently working on git which is used to creat and share repositories with other co-workers and am currently learning creat a repository of my own through github and using tools like the terminal and vscode to do changes on it.
+Am interested in collaborating on open-source projects related software developement. If your working on something in that space, feel free to reach out. I will appreciate some guidance regarding my projects on how to make them even better. Feel free to ask me about anything related to git and coding. 
+You can find me on Github as phyllip74. Shoot me a message there and let's connect.
